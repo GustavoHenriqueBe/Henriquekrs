@@ -76,10 +76,3 @@
 </div>
 
 ###
-
-<img
-  src="https://raw.githubusercontent.com/GustavoHenriqueBe/GustavoHenriqueBe/output/snake.svg"
-  alt="Snake animation"
-/>
-
-###
