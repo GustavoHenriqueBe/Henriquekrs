@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquekrs&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquekrs&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueBe&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoHenriqueBe&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -72,13 +72,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=henriquekrs.henriquekrs&"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoHenriqueBe.GustavoHenriqueBe&"/>
 </div>
 
 ###
 
 <img
-  src="https://raw.githubusercontent.com/henriquekrs/henriquekrs/output/snake.svg"
+  src="https://raw.githubusercontent.com/GustavoHenriqueBe/GustavoHenriqueBe/output/snake.svg"
   alt="Snake animation"
 />
 
